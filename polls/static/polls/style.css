@@ -1,0 +1,10 @@
+#slideshow{
+        object-fit: contain;
+        
+}
+
+iframe{
+
+display: block;
+margin: auto;
+}
